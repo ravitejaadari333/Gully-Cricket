@@ -1,0 +1,17 @@
+# Gully Cricket requirements
+
+This is a Flutter/Dart project. Install project packages with:
+
+flutter pub get
+
+SDK:
+- Dart SDK: ^3.13.1
+- Flutter SDK: compatible with Dart ^3.13.1
+
+Runtime packages:
+- path: ^1.9.1
+- sqflite: ^2.4.2
+
+Development packages:
+- flutter_test: Flutter SDK
+- flutter_lints: ^6.0.0
