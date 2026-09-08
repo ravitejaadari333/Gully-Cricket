@@ -1,1 +1,60 @@
-{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[{"name":"sqflite_darwin","path":"C:\\\\Users\\\\adari.raviteja\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\sqflite_darwin-2.4.3+1\\\\","shared_darwin_source":true,"native_build":true,"dependencies":[],"dev_dependency":false}],"android":[{"name":"sqflite_android","path":"C:\\\\Users\\\\adari.raviteja\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\sqflite_android-2.4.3\\\\","native_build":true,"dependencies":[],"dev_dependency":false}],"macos":[{"name":"sqflite_darwin","path":"C:\\\\Users\\\\adari.raviteja\\\\AppData\\\\Local\\\\Pub\\\\Cache\\\\hosted\\\\pub.dev\\\\sqflite_darwin-2.4.3+1\\\\","shared_darwin_source":true,"native_build":true,"dependencies":[],"dev_dependency":false}],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"sqflite","dependencies":["sqflite_android","sqflite_darwin"]},{"name":"sqflite_android","dependencies":[]},{"name":"sqflite_darwin","dependencies":[]}],"date_created":"2026-08-22 22:22:06.798830","version":"3.47.1","swift_package_manager_enabled":{"ios":false,"macos":false}}
+{
+    "info": "This is a generated file; do not edit or check into version control.",
+    "plugins": {
+        "ios": [
+            {
+                "name": "sqflite_darwin",
+                "path": "${SQFLITE_DARWIN_PATH}",
+                "shared_darwin_source": true,
+                "native_build": true,
+                "dependencies": [],
+                "dev_dependency": false
+            }
+        ],
+        "android": [
+            {
+                "name": "sqflite_android",
+                "path": "${SQFLITE_DARWIN_PATH}",
+                "native_build": true,
+                "dependencies": [],
+                "dev_dependency": false
+            }
+        ],
+        "macos": [
+            {
+                "name": "sqflite_darwin",
+                "path": "${SQFLITE_DARWIN_PATH}",
+                "shared_darwin_source": true,
+                "native_build": true,
+                "dependencies": [],
+                "dev_dependency": false
+            }
+        ],
+        "linux": [],
+        "windows": [],
+        "web": []
+    },
+    "dependencyGraph": [
+        {
+            "name": "sqflite",
+            "dependencies": [
+                "sqflite_android",
+                "sqflite_darwin"
+            ]
+        },
+        {
+            "name": "sqflite_android",
+            "dependencies": []
+        },
+        {
+            "name": "sqflite_darwin",
+            "dependencies": []
+        }
+    ],
+    "date_created": "2026-08-22 12:49:21.528748",
+    "version": "3.47.1",
+    "swift_package_manager_enabled": {
+        "ios": false,
+        "macos": false
+    }
+}
